@@ -1,0 +1,4 @@
+//This is header file
+//this is the main function
+    // a is assigned 10
+    //this is to check if a is odd or even

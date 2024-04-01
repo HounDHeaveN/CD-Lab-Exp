@@ -1,0 +1,7 @@
+this is a 	 sample
+
+text with multiple spaces
+
+	and newlines.
+
+Lets see how 	the program 		handles it.
